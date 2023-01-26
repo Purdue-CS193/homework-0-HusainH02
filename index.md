@@ -1,5 +1,5 @@
 # Husain's First CS193 Homework
 
-- Low pressure, fun course. It's not too serious
-- Learning actual practical skills
-- Le Epic Mèmès, Bazinga
+- Low pressure, fun course.
+- Learning actual practical skills.
+- Le Epic Mèmès, Bazinga.
