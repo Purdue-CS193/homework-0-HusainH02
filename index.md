@@ -1,8 +1,5 @@
-## Ayo whassup
+# Husain's First CS193 Homework
 
-This is a website for only **awesome** people.
-
-# I am now Hackerman
-## I see the matrix
-### There's nothing you can hide from me
-Hey hey people, husain here
+- Low pressure, fun course. It's not too serious
+- Learning actual practical skills
+- Le Epic Mèmès, Bazinga
